@@ -1,9 +1,9 @@
 # Usage
 
-1. cloen the dockerfile to local  
+1. Clone the dockerfile to local  
 `git clone git@github.com:whimthen/gogcc.git`
 
-2. use docker command build image  
+2. Use docker build image  
 `docker build - < Dockerfile -t gogcc:v1`
 
 3. Run build go files  
