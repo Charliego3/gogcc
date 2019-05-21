@@ -1,5 +1,7 @@
 # Usage
 
+> project must use go mod, The version of go is at least 1.11
+
 1. Clone the dockerfile to local  
 `git clone git@github.com:whimthen/gogcc.git`
 
