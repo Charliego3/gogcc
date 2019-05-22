@@ -1,5 +1,5 @@
 FROM centos:7.6.1810
-LABEL maintainer="xiaolunwen@gmail.com"
+LABEL maintainer="whimthen@gmail.com"
 
 # gcc for cgo
 RUN yum update -y && yum install -y gcc-c++ wget
